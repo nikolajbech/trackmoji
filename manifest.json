@@ -3,6 +3,8 @@
   "description": "👋 💬 👉 💾 Inserts emojis into Matomo to give a better visual understanding of tracked events",
   "version": "1.0",
   "manifest_version": 3,
+  "author": "Nikolaj Bech Andersen",
+  "homepage_url": "https://github.com/nikolajbech/trackmoji",
   "permissions": [
     "storage",
     "activeTab",
