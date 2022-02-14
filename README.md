@@ -4,67 +4,67 @@ Inserts emojis into Matomo to give a better visual understanding of tracked even
 Use the following strings in your tracking to change the emoji in Matomo:
 
 👋
-:enter:
+`:enter:`
 
 ⚠️
-:warning:
+`:warning:`
 
 ❌
-:error:
+`:error:`
 
 💬
-:type:
+`:type:`
 
 👉
-:press:
+`:press:`
 
 👆
-:swipe:
+`:swipe:`
 
 🔙
-:goback:
+`:goback:`
 
 🔘
-:select:
+`:select:`
 
 💾
-:save:
+`:save:`
 
 📺
-:video:
+`:video:`
 
 🔎
-:search:
+`:search:`
 
 📄
-:page:
+`:page:`
 
 🚪
-:leave:
+`:leave:`
 
 💤
-:standby:
+`:standby:`
 
 💳
-:pay:
+`:pay:`
 
 ⨐
-:function:
+`:function:`
 
 🔗
-:link:
+`:link:`
 
 ⬇️
-:download:
+`:download:`
 
 ⚙️
-:setting:
+`:setting:`
 
 🗑️
-:delete:
+`:delete:`
 
 ⭐️
-:update:
+`:update:`
 
 ✨
-:create:
+`:create:`
