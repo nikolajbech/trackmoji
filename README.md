@@ -1,6 +1,9 @@
 # trackmoji
 
 Inserts emojis into Matomo to give a better visual understanding of tracked events.
+
+![Screenshot](screenshots.jpg)
+
 Use the following strings in your tracking to change the emoji in Matomo:
 
 👋
